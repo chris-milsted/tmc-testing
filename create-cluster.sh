@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 #This script is provided as an example and is provided as-is
-# no warranty or liability will be accepted for this ude of this
+# no warranty or liability will be accepted for the use of this
 
 # Get your refresh token from console.cloud.vmware.com
 API_TOKEN="FILL-IN-HERE"
